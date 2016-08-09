@@ -1,0 +1,53 @@
+.general{
+   width: 350px;
+   margin: 10px;
+  
+}
+
+#registro label{
+    
+    text-align: left;
+    padding: 7px;
+}
+
+#Button{
+    
+    margin: 12px 0px;
+    padding: 12px 12px
+        
+}
+
+#contenedores{
+    
+    width: 350px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#no{
+  border: 2px solid #006dcc;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px 10px;
+  margin: 20px;
+  font-size: 20px;
+  color: white;
+  background-color: #006dcc;
+}
+
+
